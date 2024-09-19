@@ -1,16 +1,16 @@
-Task Manager App
-This is a Task Manager mobile application built using React Native and Expo. The app allows users to manage tasks, including creating, editing, and deleting tasks. The app also supports task sorting by date and status, as well as a light/dark theme toggle.
+#Task Manager App
+#This is a Task Manager mobile application built using React Native and Expo. The app allows users to manage tasks, including creating, editing, and deleting tasks. The app also supports task sorting by date and status, as well as a light/dark theme toggle.
 
-Features:
-Add new tasks: Tasks can include a title, description, due date/time, and location.
-Task sorting: Tasks can be sorted by date or by status (in progress, completed, or canceled).
-Status management: Users can update task status (in progress, completed, or canceled).
-Dark/Light mode: Supports both dark and light themes for better usability.
-Modern UI: Designed to resemble the iPhone Notes app for a sleek, minimalistic interface.
-Screenshots
-(Add screenshots of the app here)
+#Features:
+#Add new tasks: Tasks can include a title, description, due date/time, and location.
+#Task sorting: Tasks can be sorted by date or by status (in progress, completed, or canceled).
+#Status management: Users can update task status (in progress, completed, or canceled).
+#Dark/Light mode: Supports both dark and light themes for better usability.
+#Modern UI: Designed to resemble the iPhone Notes app for a sleek, minimalistic interface.
+#Screenshots
+#(Add screenshots of the app here)
 
-Installation:
+#Installation:
 Clone the repository:
 git clone [https://github.com/yourusername/task-manager-app.git](https://github.com/35gif/Task-Manager.git)
 Install dependencies:

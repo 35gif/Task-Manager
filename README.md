@@ -12,7 +12,7 @@ Screenshots
 
 Installation:
 Clone the repository:
-git clone https://github.com/yourusername/task-manager-app.git
+git clone [https://github.com/yourusername/task-manager-app.git](https://github.com/35gif/Task-Manager.git)
 Install dependencies:
 npm install
 Start the app:
